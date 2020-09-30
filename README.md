@@ -9,8 +9,7 @@
 ![](https://github.com/dbudakov/Gitlab-HA/blob/master/images/project_white.jpg)
 
 ### Дополнительно
-
-Pacemaker при работе с ресурсом PostgreSQL, требуется запись в pg_hba.conf вида
+Возможно `pacemaker` при работе с ресурсом PostgreSQL, требуется запись в pg_hba.conf вида
 
 ```
 local all     postgres                            peer
